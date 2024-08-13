@@ -1,2 +1,2 @@
 # Bibliotheque
-Mini projet en PHP sous sujet de réalisation d'une application Web de gestion de bibliothèque.
+**Mini project in PHP with the subject of developing a web application for library management.**
